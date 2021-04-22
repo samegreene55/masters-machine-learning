@@ -1,3 +1,3 @@
 # masters-machine-learning
 
-The jupyter notebook file contains the code I used to build a classification model to predict the winner of the 2020 Masters. It goes through data cleaning, data exploration, model building, and results. 
+These files contain the steps I went through to build a classification model to predict the winner of the Masters. Each notebook is for the corresponding year. The articles describing each process can be found here: https://samegreene.medium.com
